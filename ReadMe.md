@@ -1,5 +1,5 @@
 # 💫 About Me:
-Intern Full Stack Developer at Sterling BPO Pvt Ltd.<br>Web development enthusiast with a focus on React JS, HTML (frontend) and Spring Boot, Laravel (backend).<br>Gaining hands-on experience in building robust and scalable applications.<br>Enthusiastic learner, committed to staying updated on the latest industry trends.<br>Eager to contribute skills and collaborate on innovative projects within the development community.<br><br><br><br>
+Intern Full Stack Developer at Sterling BPO Pvt Ltd.<br>Web development enthusiast with a focus on React JS, HTML (frontend) and Laravel, Spring Boot (backend) with Tailwind CSS & Bootstrap.<br>Gaining hands-on experience in building robust and scalable applications.<br>Enthusiastic learner, committed to staying updated on the latest industry trends.<br>Eager to contribute skills and collaborate on innovative projects within the development community.<br><br><br><br>
 
 
 ## 🌐 Socials:
